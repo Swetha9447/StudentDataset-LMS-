@@ -24,7 +24,7 @@ marks=[]
 mediissue=[]
 allmediissue=['HeadAche','Bullying','Prolonged Periods','Anxiety','Depression','Skin Disease','Astama','Stress','Body Shaming','Social Anxiety']
 
-allcourses=['Introduction to C++','Maths','Python Programming','Object oriented Programming','Data Structures','Mechanics-1','Electromagnetism-1','Nuclear Physics']
+allcourses=['BE. Computer Science','BE. Mechanical Engineering','BCA','BE. Petrochemical Engineering','BBA','BSc. Physics','BSc. Maths']
 dura=['2Y','3Y','4Y','5Y','4.5Y','4.5Y']
 allgen=['Female','Male', 'Other']
 print("Please wait Generating Data...")
